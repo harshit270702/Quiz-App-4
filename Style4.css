@@ -1,0 +1,39 @@
+body {
+    font-family: Poppins, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+  }
+  
+  .quiz-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: whitesmoke;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .options {
+    margin-top: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  #submit-btn {
+    display: block;
+    margin-top: 20px;
+  }
+  
+  .result {
+    text-align: center;
+    font-size: 24px;
+    margin-top: 20px;
+  }
